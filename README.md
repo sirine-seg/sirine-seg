@@ -1,6 +1,3 @@
-- 👋 Hi, I’m *Sirine*
-- 🌱 I’m a Computer Science Student
-- 📫 How to reach me ... https://www.instagram.com/sirine_seg/
 ![image](https://github.com/sirine-seg/sirine-seg/assets/154369857/fd1ed0df-7913-42d6-906d-b3f0ce9b513f)
 
 <!---
