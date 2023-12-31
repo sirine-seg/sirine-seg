@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sirine
+- 👋 Hi, I’m *Sirine*
 - 🌱 I’m a Computer Science Student
 - 📫 How to reach me ... https://www.instagram.com/sirine_seg/
 
